@@ -1,5 +1,3 @@
-package U10T2;
-
 public class BinarySearch {
     public static int count2 = 0;
     public static int count1 = 0;
